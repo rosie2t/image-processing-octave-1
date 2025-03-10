@@ -13,8 +13,7 @@ image-processing-project/
 │   │-- DCT.m                    
 │   │-- RDCT.m                  
 
-🚀 How to Run the Code:
-Prerequisites
+How to Run the Code:
 Install GNU Octave or use the online version!
 
 📜 Report:
