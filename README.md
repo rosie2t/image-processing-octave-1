@@ -1,8 +1,8 @@
 # image-processing-octave-1
-📌 Overview
+📌 Overview:
 This repository contains my university project on Digital Image Processing, implemented using GNU Octave. The project explores various image processing techniques, including transformations, optimization, segmentation, and filtering. The corresponding report explains the methodology, results, and conclusions.
 
-📁 Project Structure
+📁 Project Structure:
 image-processing-project/
 │-- README.md                   # Project documentation
 │-- Transformations_Optimization_Segmentation_Report.pdf  # Detailed report
@@ -13,14 +13,14 @@ image-processing-project/
 │   │-- DCT.m                    
 │   │-- RDCT.m                  
 
-🚀 How to Run the Code
+🚀 How to Run the Code:
 Prerequisites
 Install GNU Octave or use the online version!
 
-📜 Report
+📜 Report:
 The full Transformations, Optimization, and Segmentation Report is included in this repository.
 
-🤝 Contributing
+🤝 Contributing:
 This project is for educational purposes. If you use this code, please provide attribution.
 
 Author: Rosie Manoli
