@@ -24,5 +24,7 @@ The full Transformations, Optimization, and Segmentation Report is included in t
 This project is for educational purposes. If you use this code, please provide attribution.
 
 Author: Rosie Manoli
+
 Course: Digital Image Processing and Applications
+
 University: Harokopio University
